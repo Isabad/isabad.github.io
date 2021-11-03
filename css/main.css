@@ -147,7 +147,11 @@ p {
   width:0;
 }
 .hero-home {
+<<<<<<< HEAD
   background-image: url(/images/Andrea_Efthyvoulou_Hero.png);
+=======
+  background-image: url(/images/Andrea_Efthyvoulou_Hero.jpg);
+>>>>>>> 40817fe1d8c183f14d81307044ec61d1070dfca9
   background-repeat: no-repeat;
   background-position: center;
 }
