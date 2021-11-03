@@ -5,7 +5,10 @@ html {
 }
 body{
   background-color: black;
+  display:flex;
+  flex-direction: column;
   font-family:helvetica, arial, sans-serif;
+  min-height:100vh;
 }
 a{
   color:#f00;
@@ -19,7 +22,7 @@ h2 {
   color:white;
   text-align:center;
 }
-h2 ~S p {
+h2 ~ p {
   font-size: 0.8em;
   font-style: italic;
   margin: 1em auto 0;
@@ -144,7 +147,7 @@ p {
   width:0;
 }
 .hero-home {
-  background-image: url(images/Andrea_Efthyvoulou_Hero.jpg);
+  background-image: url(/images/Andrea_Efthyvoulou_Hero.png);
   background-repeat: no-repeat;
   background-position: center;
 }
