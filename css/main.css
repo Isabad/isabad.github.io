@@ -147,7 +147,9 @@ p {
   width:0;
 }
 .hero-home {
-  background-image: url(/images/CompTIANet+.jpg);
+  background-image: url(/images/Andrea_Efthyvoulou_Hero_1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .hero-content {
   color: #fff;
