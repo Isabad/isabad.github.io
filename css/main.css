@@ -123,7 +123,7 @@ p {
 /* HERO STYLES */
 .full-hero {
   background-color: #25292b;
-  background-size:cover;
+  background-size:contain;
   box-sizing:border-box;
   height:100vh;
   padding-top: 10vh;
@@ -140,7 +140,7 @@ p {
   width:0;
 }
 .hero-home {
-  background-image: url(/images/AndreaEfthyvoulouHero1.jpg);
+  background-image: url(https://en.gravatar.com/userimage/212776763/f16a433db787a95834544826a07ade67.jpg?size=200/g/400/400https://en.gravatar.com/userimage/212776763/f16a433db787a95834544826a07ade67.jpg?size=200/g/400/400);
   background-repeat: no-repeat;
   background-position: center;
 }
