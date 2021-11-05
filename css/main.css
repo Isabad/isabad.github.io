@@ -126,6 +126,7 @@ p {
   background-size:contain;
   box-sizing:border-box;
   height:100vh;
+  padding-bottom:70vh;
   padding-top: 10vh;
 }
 .full-hero:after {
