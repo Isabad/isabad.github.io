@@ -166,7 +166,7 @@ p {
   width:0;
 }
 .hero-home {
-  background-image: url(images/AndreaEfthyvoulou.jpg);
+  background-image: url(/images/AndreaEfthyvoulou.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
